@@ -1,2 +1,2 @@
-print('Hello World, hep ayni mesaj ama bu sefer baska yerden geliyor!')
+print('Hello World, from github v1!')
 print("merhaba dunya")
